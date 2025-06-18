@@ -50,10 +50,10 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaa-eddin-963&theme=tokyonight" alt="GitHub Streak" />
 </p> -->
-![Languages](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+<!-- ![Languages](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![GitHub Followers](https://img.shields.io/github/followers/alaa-eddin-963?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/alaa-eddin-963/ElamassuFE?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/alaa-eddin-963/)
+![Last Commit](https://img.shields.io/github/last-commit/alaa-eddin-963/) -->
 
 ---
 
