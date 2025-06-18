@@ -41,7 +41,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
----
+<!-- ---
 
 ### 📈 GitHub Stats
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alaa-eddin-963&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaa-eddin-963&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
